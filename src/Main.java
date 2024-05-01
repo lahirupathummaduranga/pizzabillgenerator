@@ -8,7 +8,7 @@
 
         PremiumPizza PP=new PremiumPizza(true);
         PP.addExtraCheese();
-        PP.addExtratoppings();
+        //PP.addExtratoppings();
         PP.getBill();
     }
 
